@@ -1,0 +1,9 @@
+\begin{thebibliography}{1}
+
+\bibitem{LevensteinCode}
+Frank Hofmann.
+\newblock Levenshtein distance and text similarity in python.
+\newblock
+  https://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/.
+
+\end{thebibliography}
